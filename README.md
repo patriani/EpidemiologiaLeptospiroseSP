@@ -6,3 +6,9 @@ Este projeto de pesquisa consiste em uma análise exploratória e descritiva por
 - As colunas "Ign/Branco_<?>" representam o número de registros em que a pessoa preferiu não responder a pergunta na ficha médica;
 - O campo "geom" carrega os limites municipais e devem ser interpretados como sendo do tipo geometry por bancos de dados com extensão geográfica (dados fornecidos pelo IBGE);
 - O arquivo uf.csv consiste no limite estadual utilizado para criar visualizações na pesquisa. Também retirado do IBGE.
+
+A apresentação dos resultados foi feita no artigo por meio de gráficos gerados em python e mapas gerados pelo PostgreSQL e QGIS, observar os dois exemplos abaixo:
+
+![Capturar](https://user-images.githubusercontent.com/43487367/218856875-495f8f17-99f8-44ed-bbc3-9f4d2b64edfa.PNG)
+
+![Capturar](https://user-images.githubusercontent.com/43487367/218857283-69911480-3024-4582-92b8-de16b052dfa2.PNG)
